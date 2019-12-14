@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dyna", "Dyna.vcproj", "{46EE3D36-0718-4037-8A1E-9683B21C8447}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{46EE3D36-0718-4037-8A1E-9683B21C8447}.Debug.ActiveCfg = Debug|Win32
+		{46EE3D36-0718-4037-8A1E-9683B21C8447}.Debug.Build.0 = Debug|Win32
+		{46EE3D36-0718-4037-8A1E-9683B21C8447}.Release.ActiveCfg = Release|Win32
+		{46EE3D36-0718-4037-8A1E-9683B21C8447}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
